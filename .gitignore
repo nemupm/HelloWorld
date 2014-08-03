@@ -2,4 +2,6 @@
 !*.xcodeproj/project.pbxproj
 !*.xcworkspace/contents.xcworkspacedata
 .DS_Store
-HelloWorld.xcodeproj/project.xcworkspace/xcuserdata/*.xcuserdatad/UserInterfaceState.xcuserstate
+UserInterfaceState.xcuserstate
+
+HelloWorld.xcodeproj/project.xcworkspace/xcuserdata/Kiko.xcuserdatad/UserInterfaceState.xcuserstate
